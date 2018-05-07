@@ -177,3 +177,13 @@ Launching SaaS apps for office 365 using hololens
 
 ## Micrsoft Gaming
 - Incoming E3 announcement around where Microsoft is taking gaming
+
+--- 
+
+Microsoft has a hack *week* that they make stuff in. The CEO actually goes and sees what was built which is really cool
+
+---
+
+Really cool video on the impact of AI on people with disabilities. AI being used to help the deaf, blind, etc.
+
+## Announced AI for Accessibility 
